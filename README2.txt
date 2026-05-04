@@ -17,6 +17,8 @@ Hardware
 -   Raspberry Pi Pico 2
 -   Adafruit LIS3DH 3-axis accelerometer (2g/4g/8g)
 -   Jumper wires
+-   3xAA batteries
+-   Battery pack
 
 ------------------------------------------------------------------------
 
